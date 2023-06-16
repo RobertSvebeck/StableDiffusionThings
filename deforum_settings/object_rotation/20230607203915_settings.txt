@@ -41,7 +41,7 @@
     "zoom": "0: (0)",
     "translation_x": "0:(2.5)",
     "translation_y": "0: ((0.06 * cos((106 / 120 * 3.141 * (t + 13) / 30))**30 + 0.01))",
-    "translation_z": "0: ((0.06 * cos((106 / 240 * 3.141 * (t + 13) / 30))**3 + 0.01))",
+    "translation_z": "0: ((0.06 * cos((106 / 240 * 3.141 * (t + 13) / 30))**30 + 0.01))",
     "transform_center_x": "0: (0)",
     "transform_center_y": "0: (0)",
     "rotation_3d_x": "0: (0)",
